@@ -51,7 +51,7 @@ $c2c = new Country2City();
 echo "<h1>Cities of Turkey</h1><br/>";
 print_r($c2c->getCities("Turkey"));
 
-echo "Istanbul in ".$c2c->->findCountryFromCity("Istanbul");
+echo "Istanbul in ".$c2c->findCountryFromCity("Istanbul");
 
 echo "<br/><h1>Countries of World</h1><br/>";
 print_r($c2c->getCountries());
