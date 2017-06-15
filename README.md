@@ -3,6 +3,7 @@ Country To Cities and City To Country There is JSON File With a lot language rea
 
 Supported Languages
 * PHP
+* Python 2x
 
 country2city.json File Structure
 ```
